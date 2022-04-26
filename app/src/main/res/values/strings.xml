@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTechnical</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="imageview">imageview</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="text_welcome">Welcome</string>
+</resources>
