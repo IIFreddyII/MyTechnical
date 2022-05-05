@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyTechnical">
         <activity
+            android:name=".ContactActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TermAndConditionsActivity"
+            android:exported="false" />
+        <activity
             android:name=".CongratulationsPasswordActivity"
             android:exported="false" />
         <activity
