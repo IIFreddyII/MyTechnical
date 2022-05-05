@@ -8,12 +8,16 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5475" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.35609103078982596" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout-w936dp/activity_login.xml" value="0.415625" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_change_password.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations_password.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_forgot.xml" value="0.44947916666666665" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_login.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_change.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_forgot.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_principal.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_profile.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_register.xml" value="0.5" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_welcome.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/app_bar_principal.xml" value="0.4548952543822146" />
