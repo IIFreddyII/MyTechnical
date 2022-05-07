@@ -8,7 +8,7 @@
 
     <View
         android:id="@+id/view15"
-        android:layout_width="360dp"
+        android:layout_width="0dp"
         android:layout_height="56dp"
         android:background="#263445"
         app:layout_constraintBottom_toTopOf="@+id/imageView"
