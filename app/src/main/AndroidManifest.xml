@@ -10,11 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyTechnical">
         <activity
-            android:name=".ContactActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AboutActivity"
-            android:exported="false" />
+            android:name=".MenuActivity"
+            android:exported="false"
+            android:label="@string/title_activity_menu"
+            android:theme="@style/Theme.MyTechnical.NoActionBar" />
         <activity
             android:name=".TermAndConditionsActivity"
             android:exported="false" />

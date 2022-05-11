@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="Servicios"
+            android:enabled="false"/>/>
+        <item
+            android:id="@+id/supportpcFragment"
+            android:title="@string/menu_supportPC" />
+        <item
+            android:id="@+id/supportLapFragment"
+            android:title="@string/menu_supporLaptop" />
+        <item
+            android:id="@+id/instalationNetFragment"
+            android:title="@string/menu_instalationNetwork" />
+        <item
+            android:id="@+id/instalationSoftFragment"
+            android:title="@string/menu_instalationSoft" />
+    </group>
+    <group>
+        <item android:title=""
+            android:enabled="false"/>
+        <item
+            android:id="@+id/aboutFragment"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/contacFragment"
+            android:title="@string/menu_contact" />
+        <item
+            android:id="@+id/termAndConditionsFragment"
+            android:title="@string/menu_term" />
+    </group>
+
+</menu>

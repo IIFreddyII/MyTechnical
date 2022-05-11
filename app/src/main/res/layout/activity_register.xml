@@ -176,7 +176,7 @@
         android:contentDescription="@string/ButtonSignup"
         android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
         android:fontFamily="sans-serif-medium"
-        android:onClick="Next"
+        android:onClick="Login"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="#FFFFFF"
         android:textSize="16sp"

@@ -114,7 +114,7 @@
         android:contentDescription="@string/ButtonUserLogin"
         android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
         android:fontFamily="sans-serif-medium"
-        android:onClick="Next"
+        android:onClick="Login"
         android:textAlignment="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="#FFFFFF"

@@ -13,6 +13,7 @@
         android:layout_width="69dp"
         android:layout_height="72dp"
         android:foregroundGravity="center_horizontal"
+        android:soundEffectsEnabled="false"
         app:barrierAllowsGoneWidgets="false"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

@@ -19,5 +19,9 @@ public class RegisterActivity extends Activity {
         Intent back =  new Intent(this, WelcomeActivity.class);
         startActivity(back);
     }
-    
+
+    public void Login(View view){
+        Intent login =  new Intent(this, MenuActivity.class);
+        startActivity(login);
+    }
 }

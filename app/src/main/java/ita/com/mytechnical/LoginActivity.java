@@ -25,4 +25,9 @@ public class LoginActivity extends Activity {
         startActivity(forgot);
     }
 
+    public void Login(View view){
+        Intent login =  new Intent(this, MenuActivity.class);
+        startActivity(login);
+    }
+
 }

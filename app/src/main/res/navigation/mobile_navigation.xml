@@ -2,24 +2,49 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/mobile_navigation"
+    android:id="@+id/mobile_navigation2"
     app:startDestination="@+id/nav_home">
 
     <fragment
         android:id="@+id/nav_home"
         android:name="ita.com.mytechnical.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/menu_menu"
         tools:layout="@layout/fragment_home" />
 
-    <fragment
-        android:id="@+id/nav_gallery"
-        android:name="ita.com.mytechnical.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="ita.com.mytechnical.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/supportLapFragment"
+        android:name="ita.com.mytechnical.SupportLapFragment"
+        android:label="Soporte Tecnico para Laptops"
+        tools:layout="@layout/fragment_support_lap" />
+    <fragment
+        android:id="@+id/instalationNetFragment"
+        android:name="ita.com.mytechnical.InstalationNetFragment"
+        android:label="Instalacion de Redes"
+        tools:layout="@layout/fragment_instalation_net" />
+    <fragment
+        android:id="@+id/instalationSoftFragment"
+        android:name="ita.com.mytechnical.InstalationSoftFragment"
+        android:label="Instalacion de Software"
+        tools:layout="@layout/fragment_instalation_soft" />
+    <fragment
+        android:id="@+id/supportpcFragment"
+        android:name="ita.com.mytechnical.SupportpcFragment"
+        android:label="Soporte Tecnico para PC"
+        tools:layout="@layout/fragment_supportpc" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="ita.com.mytechnical.AboutFragment"
+        android:label="Acerca de Nosotros"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/contacFragment"
+        android:name="ita.com.mytechnical.ContacFragment"
+        android:label=""
+        tools:layout="@layout/fragment_contac" />
+    <fragment
+        android:id="@+id/termAndConditionsFragment"
+        android:name="ita.com.mytechnical.TermAndConditionsFragment"
+        android:label=""
+        tools:layout="@layout/fragment_term_and_conditions" />
 </navigation>
