@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyTechnical">
         <activity
+            android:name=".payment_method"
+            android:exported="false" />
+        <activity
+            android:name=".network_installation"
+            android:exported="false" />
+        <activity
+            android:name=".software_installation"
+            android:exported="false" />
+        <activity
+            android:name=".Technical_support_notebook"
+            android:exported="false" />
+        <activity
+            android:name=".Technical_support"
+            android:exported="false" />
+        <activity
             android:name=".ContactActivity"
             android:exported="false" />
         <activity

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Technical_support">
+
+  <View
+      android:id="@+id/view6"
+      android:layout_width="0dp"
+      android:layout_height="56dp"
+      android:background="#263445"
+
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <ImageView
+      android:id="@+id/imageView27"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="192dp"
+      android:layout_marginEnd="60dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <ImageView
+      android:id="@+id/imageView29"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="348dp"
+      android:layout_marginEnd="60dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <TextView
+      android:id="@+id/textView25"
+      android:layout_width="120dp"
+      android:layout_height="22dp"
+      android:layout_marginEnd="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Respaldo Información"
+      android:textColor="@color/servicios"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView29" />
+
+  <ImageView
+      android:id="@+id/imageView31"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="504dp"
+      android:layout_marginEnd="60dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <ImageView
+      android:id="@+id/imageView25"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginTop="40dp"
+      android:layout_marginEnd="60dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <TextView
+      android:id="@+id/textView24"
+      android:layout_width="120dp"
+      android:layout_height="36dp"
+      android:layout_marginStart="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Actualización Sistema operativo"
+      android:textColor="@color/servicios"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView28" />
+
+  <ImageView
+      android:id="@+id/imageView26"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginStart="60dp"
+      android:layout_marginTop="192dp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <ImageView
+      android:id="@+id/imageView30"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginStart="60dp"
+      android:layout_marginTop="504dp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <TextView
+      android:id="@+id/textView4"
+      android:layout_width="120dp"
+      android:layout_height="22dp"
+      android:layout_marginStart="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Revisión Fisica"
+      android:textColor="@color/servicios"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+  <ImageView
+      android:id="@+id/imageView28"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginStart="60dp"
+      android:layout_marginTop="348dp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <TextView
+      android:id="@+id/textView27"
+      android:layout_width="120dp"
+      android:layout_height="36dp"
+      android:layout_marginEnd="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Recuperación de información"
+      android:textColor="@color/servicios"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView31" />
+
+  <ImageView
+      android:id="@+id/imageView7"
+      android:layout_width="120dp"
+      android:layout_height="100dp"
+      android:layout_marginStart="60dp"
+      android:layout_marginTop="40dp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/view6"
+      app:srcCompat="@drawable/pcr" />
+
+  <TextView
+      android:id="@+id/textView21"
+      android:layout_width="120dp"
+      android:layout_height="22dp"
+      android:layout_marginEnd="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Diagnostico"
+      android:textColor="@color/servicios"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView25" />
+
+  <TextView
+      android:id="@+id/textView22"
+      android:layout_width="120dp"
+      android:layout_height="36dp"
+      android:layout_marginStart="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Limpieza de Equipo"
+      android:textColor="@color/servicios"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView26" />
+
+  <TextView
+      android:id="@+id/textView23"
+      android:layout_width="120dp"
+      android:layout_height="36dp"
+      android:layout_marginEnd="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Actualización Hardware"
+      android:textColor="@color/servicios"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView27" />
+
+  <TextView
+      android:id="@+id/textView26"
+      android:layout_width="120dp"
+      android:layout_height="22dp"
+      android:layout_marginStart="60dp"
+      android:foregroundGravity="center"
+      android:foregroundTint="#020202"
+      android:gravity="center"
+      android:text="Ampliación RAM"
+      android:textColor="@color/servicios"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/imageView30" />
+
+  <TextView
+      android:id="@+id/txt_back_changePass"
+      android:layout_width="wrap_content"
+      android:layout_height="0dp"
+      android:layout_marginStart="16dp"
+      android:layout_marginTop="16dp"
+      android:drawableEnd="@drawable/ic_baseline_arrow_back_24"
+      android:drawableTint="#FFFFFF"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="0.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+  <TextView
+      android:id="@+id/txt_exit_termandconditions2"
+      android:layout_width="wrap_content"
+      android:layout_height="0dp"
+      android:layout_marginTop="16dp"
+      android:layout_marginEnd="16dp"
+      android:drawableEnd="@drawable/ic_baseline_close_24"
+      android:drawableTint="#FFFFFF"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintHorizontal_bias="1.0"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent"
+      tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+  <TextView
+      android:id="@+id/textView28"
+      android:layout_width="239dp"
+      android:layout_height="30dp"
+      android:layout_marginTop="16dp"
+      android:fontFamily="sans-serif-black"
+      android:gravity="center"
+      android:text="Soporte Tecnico PC's"
+      android:textColor="@color/white"
+      android:textSize="20sp"
+      app:layout_constraintEnd_toEndOf="@+id/view6"
+      app:layout_constraintStart_toStartOf="@+id/view6"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  </androidx.constraintlayout.widget.ConstraintLayout>

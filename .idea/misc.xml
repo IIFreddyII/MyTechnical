@@ -28,8 +28,27 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/nav_header_principal.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/activity_main_drawer.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3165" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_about.xml" value="0.3759057971014493" />
         <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_change_password.xml" value="0.3759057971014493" />
-        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/soporte_tecnico_pcs.xml" value="0.5" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_congratulations.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_contact.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_login.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_main.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_network_installation.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_password_change.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_password_forgot.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_payment_method.xml" value="0.5" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_profile.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_register.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_software_installation.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_technical_support.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_technical_support_notebook.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_term_and_conditions.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/activity_welcome.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/instalacion_de_redes.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/instalacion_software.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/soporte_tecnico_laptops.xml" value="0.3759057971014493" />
+        <entry key="..\:/Users/Pablo/Documents/GitHub/MyTechnical/app/src/main/res/layout/soporte_tecnico_pcs.xml" value="0.33" />
       </map>
     </option>
   </component>
