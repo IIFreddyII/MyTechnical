@@ -32,5 +32,4 @@
             android:id="@+id/termAndConditionsFragment"
             android:title="@string/menu_term" />
     </group>
-
 </menu>

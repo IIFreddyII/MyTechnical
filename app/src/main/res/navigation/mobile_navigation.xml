@@ -9,7 +9,24 @@
         android:id="@+id/nav_home"
         android:name="ita.com.mytechnical.ui.home.HomeFragment"
         android:label="@string/menu_menu"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_aboutFragment"
+            app:destination="@id/aboutFragment"
+            app:popUpTo="@id/nav_home"/>
+        <action
+            android:id="@+id/action_nav_home_to_supportpcFragment"
+            app:destination="@id/supportpcFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_supportLapFragment"
+            app:destination="@id/supportLapFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_instalationNetFragment"
+            app:destination="@id/instalationNetFragment" />
+        <action
+            android:id="@+id/action_nav_home_to_instalationSoftFragment"
+            app:destination="@id/instalationSoftFragment" />
+    </fragment>
 
 
     <fragment
