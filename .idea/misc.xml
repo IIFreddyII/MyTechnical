@@ -5,9 +5,13 @@
       <map>
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5475" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5285" />
+<<<<<<< HEAD
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.5475" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.471" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/mipbstyle.xml" value="0.397" />
+=======
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.471" />
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/paypalbutton.xml" value="0.504" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/roundedbutton.xml" value="0.504" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/side_nav_bar.xml" value="0.422" />
@@ -34,10 +38,15 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/app_bar_principal.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/content_menu.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/content_principal.xml" value="0.4548952543822146" />
+<<<<<<< HEAD
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_about.xml" value="0.448563484708063" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_aprobado.xml" value="0.32252085264133457" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_change_password.xml" value="0.3138093202223172" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_congratulation_password_change.xml" value="0.4491346559729844" />
+=======
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_about.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_aprobado.xml" value="0.2573749465583583" />
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_contac.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_dialog.xml" value="0.33229166666666665" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_gallery.xml" value="0.4548952543822146" />
@@ -61,7 +70,10 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/order.xml" value="0.45404018811457886" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/activity_main_drawer.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/menu.xml" value="0.4548952543822146" />
+<<<<<<< HEAD
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/overflow.xml" value="0.45404018811457886" />
+=======
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3825" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3165" />
       </map>

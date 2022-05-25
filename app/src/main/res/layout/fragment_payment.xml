@@ -149,7 +149,11 @@
                 android:layout_marginEnd="100dp"
                 android:layout_marginBottom="8dp"
                 android:background="@drawable/roundedbutton"
+<<<<<<< HEAD
                 android:text="@string/cash"
+=======
+                android:text="Efectivo"
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textColor="@color/white"
                 android:textStyle="bold"

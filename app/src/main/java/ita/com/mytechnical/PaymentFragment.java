@@ -9,10 +9,15 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+<<<<<<< HEAD
 import android.widget.Toast;
 
+=======
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
 
 public class PaymentFragment extends Fragment {
+
+
 
 
 
@@ -38,7 +43,11 @@ public class PaymentFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 Navigation.findNavController(view).navigate(R.id.aprobadoFragment);
+<<<<<<< HEAD
                 Toast.makeText(getActivity(),"Aprobado!",Toast.LENGTH_SHORT).show();
+=======
+
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
             }
         });
 

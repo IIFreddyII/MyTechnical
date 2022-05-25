@@ -56,14 +56,23 @@
     <fragment
         android:id="@+id/paymentFragment"
         android:name="ita.com.mytechnical.PaymentFragment"
+<<<<<<< HEAD
         android:label="@string/payment"
         tools:layout="@layout/fragment_payment"
         >
+=======
+        android:label="Metodo de Pago"
+        tools:layout="@layout/fragment_payment" >
+        <action
+            android:id="@+id/action_paymentFragment_to_aprobadoFragment"
+            app:destination="@id/aprobadoFragment" />
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
     </fragment>
     <fragment
         android:id="@+id/aprobadoFragment"
         android:name="ita.com.mytechnical.AprobadoFragment"
         android:label=""
+<<<<<<< HEAD
         tools:layout="@layout/fragment_aprobado"
         >
         <action
@@ -140,4 +149,7 @@
             android:id="@+id/action_ratingFragment_to_nav_home"
             app:destination="@id/nav_home" />
     </fragment>
+=======
+        tools:layout="@layout/fragment_aprobado" />
+>>>>>>> 7a672b9 (se cambio el icono de la aplicacion)
 </navigation>
