@@ -88,5 +88,14 @@
         android:id="@+id/paymentFragment"
         android:name="ita.com.mytechnical.PaymentFragment"
         android:label="Metodo de Pago"
-        tools:layout="@layout/fragment_payment" />
+        tools:layout="@layout/fragment_payment" >
+        <action
+            android:id="@+id/action_paymentFragment_to_aprobadoFragment"
+            app:destination="@id/aprobadoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aprobadoFragment"
+        android:name="ita.com.mytechnical.AprobadoFragment"
+        android:label=""
+        tools:layout="@layout/fragment_aprobado" />
 </navigation>

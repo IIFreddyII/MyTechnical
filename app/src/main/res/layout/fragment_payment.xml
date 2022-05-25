@@ -124,7 +124,7 @@
             <Button
 
 
-                android:id="@+id/button"
+                android:id="@+id/btn_cash"
                 android:layout_width="172dp"
                 android:layout_height="48dp"
                 android:layout_marginStart="100dp"
@@ -133,16 +133,16 @@
                 android:layout_marginBottom="8dp"
                 android:background="@drawable/roundedbutton"
                 android:text="Efectivo"
-                app:backgroundTint="@null"
                 android:textAppearance="@style/TextAppearance.AppCompat.Body1"
                 android:textColor="@color/white"
                 android:textStyle="bold"
+                app:backgroundTint="@null"
                 app:layout_constraintBottom_toTopOf="@+id/button2"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.487"
+                app:layout_constraintHorizontal_bias="0.512"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView3"
-                app:layout_constraintVertical_bias="1.0" />
+                app:layout_constraintVertical_bias="0.866" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
