@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.ViewFlipper;
 
@@ -27,7 +28,6 @@ public class HomeFragment extends Fragment {
     private Button button_net;
 
 
-
     @Override
     public View onCreateView(
             @NonNull LayoutInflater inflater,
@@ -40,6 +40,8 @@ public class HomeFragment extends Fragment {
         button_lap = root.findViewById(R.id.btn_lap);
         button_net = root.findViewById(R.id.btn_net);
         button_soft = root.findViewById(R.id.btn_soft);
+
+
 
         button_About.setOnClickListener(new View.OnClickListener() {
             @Override

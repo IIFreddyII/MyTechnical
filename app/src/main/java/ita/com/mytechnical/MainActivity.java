@@ -2,10 +2,13 @@ package ita.com.mytechnical;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 
 import java.util.Timer;
 import java.util.TimerTask;
+
+import ita.com.mytechnical.databinding.FragmentHomeBinding;
 
 public class MainActivity extends Activity {
 

@@ -36,6 +36,7 @@
     <string name="menu_about">Acerca de Nosotros</string>
     <string name="menu_contact">Contacto</string>
     <string name="menu_term">Terminos y condiciones</string>
+    <string name="scrol_menu"></string>
 
     <string name="title_activity_menu">MenuActivity</string>
     <!-- TODO: Remove or change this placeholder text -->
