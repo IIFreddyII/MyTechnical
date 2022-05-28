@@ -4,7 +4,7 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
-        <item android:title="Servicios"
+        <item android:title="@string/services"
             android:enabled="false"/>/>
         <item
             android:id="@+id/supportpcFragment"
@@ -31,5 +31,16 @@
         <item
             android:id="@+id/termAndConditionsFragment"
             android:title="@string/menu_term" />
+    </group>
+
+    <group>
+        <item android:title=""
+            android:enabled="false"/>
+        <item
+            android:id="@+id/editInformationFragment"
+            android:title="@string/menu_editInfo" />
+        <item
+            android:id="@+id/idlog"
+            android:title="@string/menu_LogOut" />
     </group>
 </menu>

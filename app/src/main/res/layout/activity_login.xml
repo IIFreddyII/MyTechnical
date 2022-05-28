@@ -7,6 +7,22 @@
     tools:context=".LoginActivity">
 
     <TextView
+        android:id="@+id/txtv_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:text="@string/Login"
+        android:textColor="#263445"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/img_user"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.611" />
+
+    <TextView
         android:id="@+id/txt_back_login"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
@@ -17,19 +33,20 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TouchTargetSizeCheck" />
 
     <ImageView
         android:id="@+id/img_user"
         android:layout_width="148dp"
         android:layout_height="136dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="124dp"
         android:layout_marginEnd="8dp"
-        android:contentDescription="@string/ImgUser"
-        android:src="@drawable/user"
+
+        android:src="@drawable/client"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txt_back_login" />
 
@@ -70,11 +87,11 @@
         android:backgroundTint="@color/design_default_color_on_primary"
         android:drawableStart="@drawable/ic_baseline_email_24"
         android:ems="10"
-        android:hint="@string/TextEmail"
+        android:hint="@string/Email"
         android:inputType="textEmailAddress"
         android:minHeight="48dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -92,11 +109,11 @@
         android:backgroundTint="@color/design_default_color_on_primary"
         android:drawableStart="@drawable/ic_baseline_info_24"
         android:ems="10"
-        android:hint="@string/TextPassword"
+        android:hint="@string/password"
         android:inputType="textPassword"
         android:minHeight="48dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -106,12 +123,12 @@
 
     <Button
         android:id="@+id/btn_userLogin"
-        android:layout_width="97dp"
-        android:layout_height="38dp"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:background="#263445"
-        android:contentDescription="@string/ButtonUserLogin"
+
         android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
         android:fontFamily="sans-serif-medium"
         android:onClick="Login"
@@ -126,13 +143,14 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view2"
-        app:layout_constraintVertical_bias="0.0" />
+        app:layout_constraintVertical_bias="0.0"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/txt_forgot_login"
         android:layout_width="81dp"
         android:layout_height="30dp"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="28dp"
         android:onClick="Forgot"
         android:text="@string/Forgot"
         android:textColor="#000000"

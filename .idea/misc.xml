@@ -12,40 +12,40 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.35609103078982596" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout-w936dp/activity_login.xml" value="0.415625" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_about.xml" value="0.4433518597691321" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_change_password.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations.xml" value="0.19462465245597776" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations_password.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_change_password.xml" value="0.40037071362372567" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations.xml" value="0.42910101946246526" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_congratulations_password.xml" value="0.38229166666666664" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_contact.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_forgot.xml" value="0.44947916666666665" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_login.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_login.xml" value="0.36896109448482256" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_menu.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_menu.xml" value="0.3138093202223172" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_menu2.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_change.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_forgot.xml" value="0.19462465245597776" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_change.xml" value="0.40037071362372567" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_password_forgot.xml" value="0.448563484708063" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_principal.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_profile.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_register.xml" value="0.5" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_register.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_term_and_conditions.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_welcome.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/activity_welcome.xml" value="0.38229166666666664" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/app_bar_menu.xml" value="0.4229374433363554" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/app_bar_principal.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/content_menu.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/content_principal.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_about.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_aprobado.xml" value="0.2573749465583583" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_about.xml" value="0.448563484708063" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_aprobado.xml" value="0.448563484708063" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_contac.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_gallery.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home.xml" value="0.5541666666666667" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home.xml" value="0.30583873957367935" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home2.xml" value="0.4433518597691321" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_net.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_soft.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_payment.xml" value="0.44393004115226337" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_profile.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_net.xml" value="0.30583873957367935" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_soft.xml" value="0.30583873957367935" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_payment.xml" value="0.3744207599629286" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_profile.xml" value="0.3744207599629286" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_slideshow.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_suportpc.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_support_lap.xml" value="0.4548952543822146" />
-        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_supportpc.xml" value="0.4229374433363554" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_support_lap.xml" value="0.4281742354031511" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_supportpc.xml" value="0.4281742354031511" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_term_and_conditions.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/nav_header_menu.xml" value="0.5541666666666667" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/nav_header_principal.xml" value="0.4548952543822146" />

@@ -32,27 +32,27 @@
     <fragment
         android:id="@+id/supportLapFragment"
         android:name="ita.com.mytechnical.SupportLapFragment"
-        android:label="Soporte Tecnico para Laptops"
+        android:label="@string/menu_supporLaptop"
         tools:layout="@layout/fragment_support_lap" >
         <action
             android:id="@+id/action_supportLapFragment_to_paymentFragment"
-            android:label="Metodo de Pago"
+            android:label="@string/payment"
             app:destination="@id/paymentFragment" />
     </fragment>
     <fragment
         android:id="@+id/instalationNetFragment"
         android:name="ita.com.mytechnical.InstalationNetFragment"
-        android:label="Instalacion de Redes"
+        android:label="@string/menu_instalationNetwork"
         tools:layout="@layout/fragment_instalation_net" >
         <action
             android:id="@+id/action_instalationNetFragment_to_paymentFragment"
-            android:label="Metodo de Pago"
+            android:label="@string/payment"
             app:destination="@id/paymentFragment" />
     </fragment>
     <fragment
         android:id="@+id/instalationSoftFragment"
         android:name="ita.com.mytechnical.InstalationSoftFragment"
-        android:label="Instalacion de Software"
+        android:label="@string/menu_instalationSoft"
         tools:layout="@layout/fragment_instalation_soft" >
         <action
             android:id="@+id/action_instalationSoftFragment_to_paymentFragment"
@@ -62,17 +62,17 @@
     <fragment
         android:id="@+id/supportpcFragment"
         android:name="ita.com.mytechnical.SupportpcFragment"
-        android:label="Soporte Tecnico para PC"
+        android:label="@string/menu_supportPC"
         tools:layout="@layout/fragment_supportpc" >
         <action
             android:id="@+id/action_supportpcFragment_to_paymentFragment"
-            android:label="Metodo de Pago"
+            android:label="@string/payment"
             app:destination="@id/paymentFragment" />
     </fragment>
     <fragment
         android:id="@+id/aboutFragment"
         android:name="ita.com.mytechnical.AboutFragment"
-        android:label="Acerca de Nosotros"
+        android:label="@string/about"
         tools:layout="@layout/fragment_about" />
     <fragment
         android:id="@+id/contacFragment"
@@ -87,7 +87,7 @@
     <fragment
         android:id="@+id/paymentFragment"
         android:name="ita.com.mytechnical.PaymentFragment"
-        android:label="Metodo de Pago"
+        android:label="@string/payment"
         tools:layout="@layout/fragment_payment" >
         <action
             android:id="@+id/action_paymentFragment_to_aprobadoFragment"

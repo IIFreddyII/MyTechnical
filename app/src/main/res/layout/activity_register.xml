@@ -8,33 +8,51 @@
 
 
     <TextView
+        android:id="@+id/txt_Signup_register"
+        android:layout_width="300dp"
+        android:layout_height="52dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="32dp"
+        android:contentDescription="@string/Signup"
+        android:text="@string/Signup"
+        android:textAlignment="center"
+        android:textColor="#263445"
+        android:textIsSelectable="false"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/img_user2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.468"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_back_signup" />
+
+    <ImageView
+        android:id="@+id/img_user2"
+        android:layout_width="148dp"
+        android:layout_height="136dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="172dp"
+        android:layout_marginEnd="8dp"
+
+        android:src="@drawable/register"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
         android:id="@+id/txt_back_signup"
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:onClick="Back"
         android:drawableEnd="@drawable/ic_baseline_arrow_back_24"
+        android:onClick="Back"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/txt_Signup_register"
-        android:layout_width="297dp"
-        android:layout_height="30dp"
-        android:layout_marginStart="32dp"
-        android:layout_marginEnd="32dp"
-        android:contentDescription="@string/signup"
-        android:text="@string/signup"
-        android:textColor="#000000"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txt_back_signup" />
 
     <View
         android:id="@+id/view_register"
@@ -45,9 +63,8 @@
         android:layout_marginEnd="32dp"
         android:background="#E5E5E5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txt_Signup_register" />
+        app:layout_constraintTop_toBottomOf="@+id/img_user2" />
 
     <View
         android:id="@+id/view_register2"
@@ -101,13 +118,12 @@
         android:ems="10"
         android:hint="@string/Name"
         android:inputType="textPersonName"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:typeface="normal"
         android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/txt_Signup_register" />
+        app:layout_constraintTop_toBottomOf="@+id/img_user2" />
 
     <EditText
         android:id="@+id/etxt_email_register"
@@ -116,12 +132,12 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
+        android:backgroundTint="@color/design_default_color_on_primary"
         android:drawableEnd="@drawable/ic_baseline_email_24"
         android:ems="10"
-        android:backgroundTint="@color/design_default_color_on_primary"
-        android:inputType="textPersonName"
         android:hint="@string/Email"
-        android:textSize="16sp"
+        android:inputType="textPersonName"
+        android:textSize="20sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -135,12 +151,12 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
+        android:backgroundTint="@color/design_default_color_on_primary"
         android:drawableEnd="@drawable/ic_baseline_info_24"
         android:ems="10"
-        android:backgroundTint="@color/design_default_color_on_primary"
-        android:hint="@string/Password"
+        android:hint="@string/password"
         android:inputType="textPassword"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -159,7 +175,7 @@
         android:ems="10"
         android:hint="@string/Phone"
         android:inputType="number"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:typeface="normal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
@@ -168,12 +184,12 @@
 
     <Button
         android:id="@+id/btn_signup_register"
-        android:layout_width="97dp"
-        android:layout_height="38dp"
+        android:layout_width="130dp"
+        android:layout_height="55dp"
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:background="#263445"
-        android:contentDescription="@string/ButtonSignup"
+
         android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
         android:fontFamily="sans-serif-medium"
         android:onClick="Login"
