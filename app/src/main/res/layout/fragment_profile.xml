@@ -24,9 +24,9 @@
                 android:id="@+id/imageView"
                 android:layout_width="148dp"
                 android:layout_height="123dp"
-                android:layout_marginTop="60dp"
+                android:layout_marginTop="32dp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.497"
+                app:layout_constraintHorizontal_bias="0.498"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
                 app:srcCompat="@drawable/user" />
@@ -421,7 +421,7 @@
 
             <Button
                 android:id="@+id/btn_save_Profile"
-                android:layout_width="130dp"
+                android:layout_width="150dp"
                 android:layout_height="55dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginEnd="32dp"

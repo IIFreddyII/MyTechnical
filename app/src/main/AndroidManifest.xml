@@ -15,15 +15,6 @@
             android:label="@string/title_activity_menu"
             android:theme="@style/Theme.MyTechnical.NoActionBar" />
         <activity
-            android:name=".CongratulationsPasswordActivity"
-            android:exported="false" />
-        <activity
-            android:name=".PasswordChangeActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ChangePasswordActivity"
-            android:exported="false" />
-        <activity
             android:name=".CongratulationsActivity"
             android:exported="false" />
         <activity

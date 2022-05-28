@@ -83,4 +83,6 @@
     <string name="Recover">Recuperacion de informacion</string>
     <string name="Termandconditions">Términos y condiciones</string>
     <string name="user">Correo Electronico</string>
+    <string name="menu_option" translatable="false">Cambiar Idioma</string>
+    <string name="home">Inicio</string>
 </resources>

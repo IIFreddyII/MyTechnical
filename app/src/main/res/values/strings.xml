@@ -8,9 +8,9 @@
 
     <string name="changepassword">Change Password</string>
     <string name="Email">Email</string>
-    <string name="btnChangePass"></string>
+    <string name="btnChangePass" translatable="false"></string>
 
-    <string name="btnCongratulations"></string>
+    <string name="btnCongratulations" translatable="false"></string>
     <string name="congratulations">CONGRATULATIONS!</string>
     <string name="congartulationsv2">YOU AREA SUCCESSFULLY</string>
     <string name="congratulationsv3">CHANGE YOUR PASSWORD</string>
@@ -39,10 +39,10 @@
 
     <string name="Welcome">Welcome</string>
     <string name="signup">Sign Up</string>
-    
+
     <string name="about">About</string>
     <string name="aboutinfo">MyTechnical is the platform to request technical service. We currently offer a wide range of services by application in Aguascalientes.Today we connect with a huge number of users through technical solutions through the application such as PC Technical Support, Laptop Technical Support, Network Installation and Software Installation.</string>
-    
+
     <string name="passed">Your request has been completed successfully</string>
 
     <string name="contact">Contact</string>
@@ -54,7 +54,7 @@
     <string name="mytechnicaldescription">At MyTechnical, we have created a work philosophy of attention, assistance and professional service with human quality.</string>
     <string name="mytechnicaldescriptionv2">We are a serious and consolidated Mexican company, formed by professionals in the services of Technical Support, Computer Equipment and Audiovisual.</string>
     <string name="knowus">Know Us</string>
-    
+
     <string name="instalationnet">Server</string>
     <string name="instalationnet2">Switch connection</string>
     <string name="instalationnet3">Installation of Hard Drives for Network</string>
@@ -84,7 +84,7 @@
     <string name="Suburb">Suburb</string>
     <string name="cp">CP</string>
     <string name="Save">Save</string>
-    
+
     <string name="EquipmentCleaning">Equipment Cleaning</string>
     <string name="Antivirusupdate">Antivirus Update</string>
     <string name="SystemOptimization">System Optimization</string>
@@ -93,7 +93,7 @@
     <string name="Hardwareupgrade">Hardware upgrade</string>
     <string name="Removeantivirus">Virus Removal and Antivirus Installation</string>
     <string name="repairhard">Hardware Level Repair</string>
-    
+
     <string name="Physicalexamination">Physical examination</string>
     <string name="Diagnosis">Diagnosis</string>
     <string name="CleaningComputer">Cleaning of computer equipment</string>
@@ -106,10 +106,13 @@
 
     <string name="user">User Email</string>
 
-    <string name="title_activity_menu"></string>
+    <string name="title_activity_menu" translatable="false"></string>
+    <string name="menu_menu" translatable="false"></string>
 
-    <string name="menu_menu"></string>
-    
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    
+
 </resources>
