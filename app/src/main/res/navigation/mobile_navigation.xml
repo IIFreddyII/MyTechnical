@@ -65,7 +65,14 @@
         android:name="ita.com.mytechnical.AprobadoFragment"
         android:label=""
         tools:layout="@layout/fragment_aprobado"
-        />
+        >
+        <action
+            android:id="@+id/action_aprobadoFragment_to_dialogFragment"
+            app:destination="@id/dialogFragment" />
+        <action
+            android:id="@+id/action_aprobadoFragment_to_homeServiceFragment"
+            app:destination="@id/homeServiceFragment" />
+    </fragment>
     <fragment
         android:id="@+id/editInformationFragment"
         android:name="ita.com.mytechnical.ProfileFragment"
@@ -110,4 +117,14 @@
         android:name="ita.com.mytechnical.WelcomeActivity"
         android:label=""
         tools:layout="@layout/activity_welcome" />
+    <fragment
+        android:id="@+id/dialogFragment"
+        android:name="ita.com.mytechnical.DialogFragment"
+        android:label="fragment_dialog"
+        tools:layout="@layout/fragment_dialog" />
+    <fragment
+        android:id="@+id/homeServiceFragment"
+        android:name="ita.com.mytechnical.HomeServiceFragment"
+        android:label="fragment_home_service"
+        tools:layout="@layout/fragment_home_service" />
 </navigation>

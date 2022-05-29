@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5475" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.5285" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.5475" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.471" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/mipbstyle.xml" value="0.397" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/paypalbutton.xml" value="0.504" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/roundedbutton.xml" value="0.504" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/drawable/side_nav_bar.xml" value="0.422" />
@@ -37,9 +39,11 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_change_password.xml" value="0.3138093202223172" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_congratulation_password_change.xml" value="0.4491346559729844" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_contac.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_dialog.xml" value="0.33229166666666665" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_gallery.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home.xml" value="0.30583873957367935" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home2.xml" value="0.4433518597691321" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_home_service.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_net.xml" value="0.30583873957367935" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_instalation_soft.xml" value="0.30583873957367935" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_password_change.xml" value="0.3022659256092347" />
@@ -52,6 +56,7 @@
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/fragment_term_and_conditions.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/nav_header_menu.xml" value="0.5541666666666667" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/nav_header_principal.xml" value="0.4548952543822146" />
+        <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/layout/order.xml" value="0.45404018811457886" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/activity_main_drawer.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/menu.xml" value="0.4548952543822146" />
         <entry key="..\:/AndroidStudio/MyTechnical/app/src/main/res/menu/overflow.xml" value="0.45404018811457886" />

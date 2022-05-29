@@ -111,8 +111,12 @@
 
     <string name="home">Home</string>
     <string name="profile">Profile</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog">Waiting for answers from the technician</string>
+    <string name="btnService">Show Order</string>
+    <string name="messageservice">Technician on the way</string>
+    <string name="tecnicalName">Technical Name</string>
+    <string name="AddresTecnical">Addres:</string>
+    <string name="tecnicalphone">Phone:</string>
 
 
 </resources>

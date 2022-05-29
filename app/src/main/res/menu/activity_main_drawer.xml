@@ -29,28 +29,35 @@
             />
         <item
             android:id="@+id/supportpcFragment"
-            android:title="@string/menu_supportPC" />
+            android:title="@string/menu_supportPC"
+            android:icon="@drawable/ic_baseline_support_agent_24"/>
         <item
             android:id="@+id/supportLapFragment"
-            android:title="@string/menu_supporLaptop" />
+            android:title="@string/menu_supporLaptop"
+            android:icon="@drawable/ic_baseline_support_agent_24"/>
         <item
             android:id="@+id/instalationNetFragment"
-            android:title="@string/menu_instalationNetwork" />
+            android:title="@string/menu_instalationNetwork"
+            android:icon="@drawable/ic_baseline_support_agent_24"/>
         <item
             android:id="@+id/instalationSoftFragment"
-            android:title="@string/menu_instalationSoft" />
+            android:title="@string/menu_instalationSoft"
+            android:icon="@drawable/ic_baseline_support_agent_24"/>
     </group>
     <group>
         <item android:title=""
             android:enabled="false"/>
         <item
             android:id="@+id/aboutFragment"
-            android:title="@string/menu_about" />
+            android:title="@string/menu_about"
+            android:icon="@drawable/ic_baseline_info_24"/>
         <item
             android:id="@+id/contacFragment"
-            android:title="@string/menu_contact" />
+            android:title="@string/menu_contact"
+            android:icon="@drawable/ic_baseline_contact_page_24"/>
         <item
             android:id="@+id/termAndConditionsFragment"
-            android:title="@string/menu_term" />
+            android:title="@string/menu_term"
+            android:icon="@drawable/ic_baseline_shield_24" />
     </group>
 </menu>
