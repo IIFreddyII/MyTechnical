@@ -49,7 +49,4 @@ public class AprobadoFragment extends Fragment {
         AlertDialog dialog = builder.create();
         dialog.show();
     }
-
-
-
 }

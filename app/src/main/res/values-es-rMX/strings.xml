@@ -83,7 +83,14 @@
     <string name="Recover">Recuperacion de informacion</string>
     <string name="Termandconditions">Términos y condiciones</string>
     <string name="user">Alfredolunacastro07@gmail.com</string>
-    <string name="menu_option" translatable="false">Cambiar Idioma</string>
     <string name="home">Inicio</string>
     <string name="dialog">Esperando Respuesta del Tecnico</string>
+    <string name="btnService">Ver Orden</string>
+    <string name="messageservice">Tecnico en Camino</string>
+    <string name="tecnicalName">Nombre del Tecnico</string>
+    <string name="AddresTecnical">Direccion:</string>
+    <string name="tecnicalphone">Telefono:</string>
+    <string name="btnMap">Ver Ubicacion</string>
+    <string name="profile">Perfil</string>
+    <string name="dir">Estudiante de la carrera de Ingeniería en Tecnologías de la información y comunicaciones en el Instituto Tecnológico de Aguascalientes, México</string>
 </resources>

@@ -117,6 +117,10 @@
     <string name="tecnicalName">Technical Name</string>
     <string name="AddresTecnical">Addres:</string>
     <string name="tecnicalphone">Phone:</string>
-
+    <string name="btnMap">Show Map</string>
+    <string name="menu_title" translatable="false">MyTechnical</string>
+    <string name="alfredo" translatable="false">Alfredo Luna Castro</string>
+    <string name="dir">Student of the Information Technology and Communications Engineering career at the Technological Institute of Aguascalientes, Mexico</string>
+    <string name="alfredoemail" translatable="false">Alfredolunacastro07@gmail.com</string>
 
 </resources>

@@ -425,7 +425,6 @@
                 android:layout_height="55dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginEnd="32dp"
-
                 android:background="#263445"
                 android:drawableEnd="@drawable/ic_baseline_arrow_forward_24"
                 android:fontFamily="sans-serif-medium"
