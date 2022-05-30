@@ -125,4 +125,8 @@
     <string name="pablo" translatable="false">José pablo gonzalez martinez</string>
     <string name="pabloemail" translatable="false">jpgm.nomercy@gmail.com</string>
 
+    <string name="invalid_mail" translatable="false">Ingrese un mail valido</string>
+    <string name="invalid_password" translatable="false">Ingrese un password mayor a 6</string>
+
+
 </resources>

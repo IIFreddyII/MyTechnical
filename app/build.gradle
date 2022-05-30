@@ -47,8 +47,9 @@ dependencies {
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
     implementation 'com.google.firebase:firebase-database:20.0.5'
     implementation 'com.google.firebase:firebase-auth:21.0.5'
+    implementation 'com.basgeekball:awesome-validation:4.3'
     implementation 'com.google.firebase:firebase-firestore:24.1.2'
-
+    implementation 'com.google.firebase:firebase-bom:30.1.0'
     implementation 'com.squareup.okhttp3:okhttp:4.9.1'
 
 

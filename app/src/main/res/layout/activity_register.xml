@@ -106,7 +106,7 @@
         app:layout_constraintTop_toBottomOf="@+id/view_register3" />
 
     <EditText
-        android:id="@+id/etxt_name_register"
+        android:id="@+id/et_name"
         android:layout_width="297dp"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
@@ -126,7 +126,7 @@
         app:layout_constraintTop_toBottomOf="@+id/img_user2" />
 
     <EditText
-        android:id="@+id/etxt_email_register"
+        android:id="@+id/et_email"
         android:layout_width="297dp"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
@@ -145,7 +145,7 @@
         app:layout_constraintTop_toBottomOf="@+id/view_register" />
 
     <EditText
-        android:id="@+id/etxt_password_register"
+        android:id="@+id/et_password"
         android:layout_width="297dp"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
@@ -161,10 +161,10 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etxt_email_register" />
+        app:layout_constraintTop_toBottomOf="@+id/et_email" />
 
     <EditText
-        android:id="@+id/etxt_phone_register"
+        android:id="@+id/et_phone"
         android:layout_width="297dp"
         android:layout_height="50dp"
         android:layout_marginStart="32dp"
@@ -183,7 +183,7 @@
         app:layout_constraintTop_toBottomOf="@+id/view_register3" />
 
     <Button
-        android:id="@+id/btn_signup_register"
+        android:id="@+id/btn_register"
         android:layout_width="130dp"
         android:layout_height="55dp"
         android:layout_marginStart="32dp"
