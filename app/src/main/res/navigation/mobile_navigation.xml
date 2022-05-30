@@ -9,11 +9,7 @@
         android:id="@+id/nav_home"
         android:name="ita.com.mytechnical.ui.home.HomeFragment"
         android:label="@string/menu_title"
-        tools:layout="@layout/fragment_home" >
-        <action
-            android:id="@+id/action_nav_home_to_orderFragment"
-            app:destination="@id/orderFragment" />
-    </fragment>
+        tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/supportLapFragment"
@@ -130,10 +126,18 @@
         android:id="@+id/homeServiceFragment"
         android:name="ita.com.mytechnical.HomeServiceFragment"
         android:label="MyTechnical"
-        tools:layout="@layout/fragment_home_service" />
+        tools:layout="@layout/fragment_home_service" >
+        <action
+            android:id="@+id/action_homeServiceFragment_to_ratingFragment2"
+            app:destination="@id/ratingFragment" />
+    </fragment>
     <fragment
-        android:id="@+id/orderFragment"
-        android:name="ita.com.mytechnical.OrderFragment"
-        android:label="fragment_order"
-        tools:layout="@layout/fragment_order" />
+        android:id="@+id/ratingFragment"
+        android:name="ita.com.mytechnical.RatingFragment"
+        android:label="@string/Rating"
+        tools:layout="@layout/fragment_rating" >
+        <action
+            android:id="@+id/action_ratingFragment_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
 </navigation>

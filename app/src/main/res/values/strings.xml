@@ -124,5 +124,8 @@
     <string name="alfredoemail" translatable="false">Alfredolunacastro07@gmail.com</string>
     <string name="pablo" translatable="false">José pablo gonzalez martinez</string>
     <string name="pabloemail" translatable="false">jpgm.nomercy@gmail.com</string>
+    <string name="btnqualify">Qualify</string>
+    <string name="rateService">Rate Service</string>
+    <string name="Rating">Rating</string>
 
 </resources>

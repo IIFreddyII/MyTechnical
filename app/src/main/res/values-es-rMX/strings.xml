@@ -93,4 +93,7 @@
     <string name="btnMap">Ver Ubicacion</string>
     <string name="profile">Perfil</string>
     <string name="dir">Estudiante de la carrera de Ingeniería en Tecnologías de la información y comunicaciones en el Instituto Tecnológico de Aguascalientes, México</string>
+    <string name="btnqualify">Calificar</string>
+    <string name="Rating">Calificacion del Servicio</string>
+    <string name="rateService">Calificar Servicio</string>
 </resources>
