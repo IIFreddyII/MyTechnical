@@ -9,6 +9,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.Toast;
 
 
 public class PaymentFragment extends Fragment {
@@ -37,6 +38,7 @@ public class PaymentFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 Navigation.findNavController(view).navigate(R.id.aprobadoFragment);
+                Toast.makeText(getActivity(),"Aprobado!",Toast.LENGTH_SHORT).show();
             }
         });
 
